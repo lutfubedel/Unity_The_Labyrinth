@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd7d16e48ca3fb84d9ee2c75a100067e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dragon Slayer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7165f2778ac520e4e9c1df18d003c80e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
